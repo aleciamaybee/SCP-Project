@@ -1,0 +1,50 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Poppins", sans-serif;
+  color: #4d4c47;
+  text-align: center;
+}
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+}
+h2 {
+  font-weight: 600;
+}
+h3 {
+  font-weight: 400;
+}
+
+.currently {
+  font-weight: 400;
+  font-size: 15px;
+  margin: 0 auto;
+  display: block;
+  padding: 0 auto;
+  text-align: center;
+}
+
+.mainTemp {
+  font-weight: 900;
+  font-size: 32px;
+}
+
+.engine {
+  margin: 0 auto;
+  padding: 0 auto;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+
+button {
+  border-radius: 15%;
+  margin: 0 auto;
+  padding: 20 auto;
+
+  color: #ffffff;
+  background-color: #3a8df4;
+  font-family: "Poppins", sans-serif;
+}
